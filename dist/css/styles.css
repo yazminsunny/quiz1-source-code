@@ -117,6 +117,8 @@ div.desc {
   font-size: 20px;
 }
 
+
+
 .selfie img {
   width: 20%;
   height: auto;
@@ -157,6 +159,10 @@ div.desc {
   margin-left: auto;
   margin-right: auto;
   padding-top: 10px;
+}
+
+.source {
+  font-size:15px;
 }
 
 hr {
