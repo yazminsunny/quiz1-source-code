@@ -92,12 +92,16 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.main {
+  margin-left: 5px;
+}
+
 div.gallery {
   background-color: #F3E3B9;
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 24.46%;
+  width: 24.3%;
   margin-top: 70px;
 }
 
@@ -116,8 +120,6 @@ div.desc {
   font-family: monospace;
   font-size: 20px;
 }
-
-
 
 .selfie img {
   width: 20%;
